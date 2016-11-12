@@ -1,0 +1,26 @@
+{
+  "name": "webpack-tutorial",
+  "version": "1.0.0",
+  "description": "Intro to webpack https://www.youtube.com/watch?annotation_id=annotation_4139363737&amp;feature=iv&amp;src_vid=MhkGQAoc7bc&amp;v=9kJVYpOqcVU",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "lodash": "^4.16.6",
+    "webpack": "^1.13.3",
+    "webpage": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samanthagmccormick/webpack-tutorial.git"
+  },
+  "author": "samanthamccormick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samanthagmccormick/webpack-tutorial/issues"
+  },
+  "homepage": "https://github.com/samanthagmccormick/webpack-tutorial"
+}

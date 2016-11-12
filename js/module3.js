@@ -1,1 +1,1 @@
-module3.js 
+console.log('module 3');

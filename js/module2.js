@@ -1,1 +1,4 @@
- module2.js
+console.log('module 2');
+
+var _ = require('lodash');
+
